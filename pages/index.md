@@ -1,7 +1,5 @@
-# Nextra
+# What is Void?
 
-**Nextra** is a [Next.js](https://nextjs.org) based static site generator. 0 lines of code needed.  
+Void is a discord bot by ([TheVoid](https://instagram.com/thevoidmusics)).
 
-It supports Markdown with React components ([MDX](/docs/mdx)), automatically generated [sidebar and anchor links](/docs/anchors), file-system based routing, built-in syntax highlighting, i18n and more.
-
-![](/demo.png)
+**Note!:** Void is currently in _alpha_ phase at the moment so expect bugs out of it.
