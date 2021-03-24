@@ -9,7 +9,7 @@
     "build": "next build"
   },
   "author": "TheVoid",
-  "license": "MIT",
+  "license": "ISC",
   "dependencies": {
     "next": "^10.0.8-canary.9",
     "nextra": "^0.4.1",

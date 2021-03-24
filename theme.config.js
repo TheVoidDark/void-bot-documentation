@@ -3,9 +3,9 @@ export default {
   titleSuffix: ' – TheVoid',
   logo: (
     <>
-      <span className="mr-2 font-extrabold hidden md:inline">Nextra</span>
+      <span className="mr-2 font-extrabold hidden md:inline">Void</span>
       <span className="text-gray-600 font-normal hidden md:inline">
-        The Next Site Builder
+        The Discord Bot Documentation
       </span>
     </>
   ),
@@ -36,6 +36,6 @@ export default {
   prevLinks: true,
   nextLinks: true,
   footer: true,
-  footerEditOnGitHubLink: true,
+  footerEditOnGitHubLink: false,
   footerText: <>{new Date().getFullYear()} © TheVoid.</>
 }
