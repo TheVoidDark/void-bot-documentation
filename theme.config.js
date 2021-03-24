@@ -1,6 +1,6 @@
 export default {
-  repository: 'https://github.com/shuding/nextra',
-  titleSuffix: ' – Nextra',
+  repository: 'https://github.com/TheVoidDark/void-bot-documentation',
+  titleSuffix: ' – TheVoid',
   logo: (
     <>
       <span className="mr-2 font-extrabold hidden md:inline">Nextra</span>
@@ -37,5 +37,5 @@ export default {
   nextLinks: true,
   footer: true,
   footerEditOnGitHubLink: true,
-  footerText: <>MIT {new Date().getFullYear()} © Nextra.</>
+  footerText: <>{new Date().getFullYear()} © TheVoid.</>
 }
